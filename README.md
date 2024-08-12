@@ -14,4 +14,5 @@ Caso necessário, você poderá adicionar novas extensões ao código, sem ter d
 
 
 
-![organizador-de-arquivos](https://github.com/user-attachments/assets/1811d46e-6706-4eae-a605-17a4b4f9ca21)
+
+![organizador-de-arquivos](https://github.com/user-attachments/assets/ba6cca7a-e050-4769-b67c-3f54bc118052)
