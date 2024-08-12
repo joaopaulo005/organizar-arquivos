@@ -12,4 +12,6 @@ assim como os arquivos ".zip" estarão na pasta "zip".
 Caso necessário, você poderá adicionar novas extensões ao código, sem ter dificuldades.
 
 
-![organizador-de-arquivos](https://github.com/user-attachments/assets/0fc2cdd8-3c2f-4997-913c-f3a32cdb7c4c)
+
+
+![organizador-de-arquivos](https://github.com/user-attachments/assets/1811d46e-6706-4eae-a605-17a4b4f9ca21)
